@@ -333,7 +333,11 @@ ul li{
     border: gray solid 1px;
 }
 
-h2{
+h2, h3, h4{
     border-bottom: 1px solid gray;
     padding-bottom: 20px;
+}
+
+img{
+    margin-bottom: 50px;
 }
