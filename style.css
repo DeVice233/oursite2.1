@@ -341,3 +341,8 @@ h2, h3, h4{
 img{
     margin-bottom: 50px;
 }
+.mini-header{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 900;
+    padding-top: 40px;
+}
