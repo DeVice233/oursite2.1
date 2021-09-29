@@ -123,7 +123,7 @@ function calc()
                 </a>
               </li>
               <li>
-                <a href="authors.html" class="nav-link text-white active">
+                <a href="authors.php" class="nav-link text-white active">
                   <svg class="bi me-2" width="16" height="16"><use xlink:href="#grid"></use></svg>
                   Авторы
                 </a>
